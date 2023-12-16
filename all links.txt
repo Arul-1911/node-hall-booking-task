@@ -1,0 +1,17 @@
+1. //find all the roooms list
+ https://hall-booking-api-bhzp.onrender.com/rooms/all
+
+
+ 2. //find the all  booked rooms 
+ https://hall-booking-api-bhzp.onrender.com/viewbooked
+
+
+ 3.//find all the customers who booked rooms
+ https://hall-booking-api-bhzp.onrender.com/customers
+
+ 4.////Creating a room
+ https://hall-booking-api-bhzp.onrender.com/rooms/create
+
+
+  5.//find how many times user booked the room by name
+ https://hall-booking-api-bhzp.onrender.com/customer/Arul
